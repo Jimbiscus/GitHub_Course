@@ -1,9 +1,15 @@
 p {
-    color: red
+    color: red;
+    font-size: 100px;
+
 }
 
 h1 {
     text-align: auto;
     padding-left: 0%;
     padding-right: 0%;
+}
+
+body {
+    text-align: center;
 }
